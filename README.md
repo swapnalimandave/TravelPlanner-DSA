@@ -145,15 +145,6 @@ The program checks for and reports:
 - Locations cannot be deleted, only routes.
 - The sample distances, times and costs are made up for demonstration and do not represent real transport data.
 
-## Possible improvements
-
-- Save and load the network from a file
-- Delete locations along with their routes
-- Draw the graph and highlight the chosen route
-- Support one-way routes and several routes between the same two cities
-
-## Resume description
-
 Developed a graph-based travel planning desktop application in Java using adjacency lists, BFS, DFS and Dijkstra's algorithm to find optimal routes based on distance, travel time and cost. Implemented dynamic location and route management with a Java Swing interface.
 
 ## Author
